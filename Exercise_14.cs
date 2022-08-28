@@ -7,14 +7,6 @@ using System.Collections;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
 
-    class Converter
-    {
-      
-      
-      
-        
-    }
-
     
     internal class Program
     {
