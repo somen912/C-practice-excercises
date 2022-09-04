@@ -1,4 +1,4 @@
-﻿/* Maximum and minimum of an array using Liners Search */
+﻿/* Maximum and minimum of an array using Linear Search */
 
 
 using System;
